@@ -238,6 +238,10 @@ footer {
     animation-fill-mode: forwards;
   }
 
+  .opened a {
+    display: initial;
+  }
+
   nav a {
     display: none;
   }
